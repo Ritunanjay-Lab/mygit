@@ -1,8 +1,2 @@
 echo "version1"
 echo "version2"
-echo "version3"
-echo "version4"
-echo "version5"
-echo "version6"
-echo "version7"
-echo "version8"
